@@ -15,7 +15,7 @@ import os
 # in each dict, the keys correspond to <key>:
 
 # Speaker:  <speaker>
-# Affiliation: <affliation>
+# Affiliation: <affiliation>
 # Title: <title>
 # Abstract: <abstract>
 # a <date> will be created automatically
