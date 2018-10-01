@@ -1,0 +1,4 @@
+requests==2.18.4
+Django==2.1.1
+icalendar==4.0.2
+python_dateutil==2.7.3
